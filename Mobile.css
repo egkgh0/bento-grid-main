@@ -1,0 +1,280 @@
+
+ @media  (max-width:324px){   
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #d5c7c7;
+} 
+
+.write-content3{
+    position: absolute;
+    background-color: rgb(9, 14, 74);
+    border-radius: 10px;
+    height: 25%;
+    width:  80%;
+    z-index: 1;
+    Margin-left: 10%;
+    top: 2%;
+ }
+
+ .write-content3 .img3 {
+    position: absolute;
+    height: 20%;
+    width: 60%;
+    top: 35%;
+    margin-left: 20%;
+    z-index: 2;
+ }
+
+
+.write-content3 .p3 {
+    position: absolute;
+    color:white;
+    font-size:5.5vw;
+    font-weight: bold;
+    top: 10%; 
+    padding:1%;
+    text-align: center;
+}
+
+
+.write-content3 .pp3 {
+    position: absolute;
+    color:white;
+    font-size:3.7vw;
+    font-weight: bold;
+    top: 60%;
+}
+
+.write-content4{
+    position: absolute;
+    background-color: white;
+    border-radius: 10px;
+    height: 25%;
+    width: 80%;
+    z-index: 1;
+    Margin-left: 10%;
+    top: 28%;
+ }
+
+.write-content4 .img4 {
+    position: absolute;
+    height: 25%;
+    width: 80%;
+    top: 3%;
+    margin-left: 8%;
+    z-index: 2;
+ }
+
+
+.write-content4 .p4 {
+    position: absolute;
+    color: black;
+    font-size: 6vw;
+    font-weight: bold;
+    top: 30%;
+    padding:1%;
+    text-align: center;
+}
+
+.write-content5{
+    position: absolute;
+    background-color: white;
+    border-radius: 10px;
+    height: 25%;
+    width: 80%;
+    z-index: 1;
+    Margin-left: 10%;
+    top: 54%;
+ }
+
+.write-content5 .img5 {
+    position: absolute;
+    height: 30%;
+    width: 80%;
+    top: 50%;
+    margin-left: 8%;
+    z-index: 2;
+ }
+
+
+.write-content5 .p5 {
+    position: absolute;
+    color: black;
+    font-size: 9vw;
+    font-weight: bold;
+    top: 3%;
+    text-align: center;
+    
+}
+
+.write-content5 .pp5 {
+    position: absolute;
+    color: black;
+    font-size: 6vw;
+    /* font-weight: bold; */
+    top: 32%;
+    left: 15%;
+}
+
+ .write-content8{
+    position: absolute;
+    background-color: violet;
+    border-radius: 10px;
+    height: 25%;
+    width: 80%;
+    z-index: 1;
+    Margin-left: 10%;
+    top: 80%;
+ }
+
+.write-content8 .img8 {
+    position: absolute;
+    height: 65%;
+    width: 60%;
+    top: 15%;
+    margin-left: 40%;
+    z-index: 2;
+ }
+
+
+.write-content8 .p8 {
+    position: absolute;
+    color:black;
+    font-size: 4.7vw;
+    font-weight: bold;
+    top: 5%;
+    padding:1%;
+    text-align: center;
+}
+
+.write-content8 .pp8 {
+    position: absolute;
+    color:black;
+    font-size: 3vw;
+    top: 85%;
+    padding:1%;
+    text-align: center;
+}
+
+.write-content7{
+    position: absolute;
+    background-color: rgb(26, 20, 100);
+    border-radius: 10px;
+    height: 25%;
+    width: 80%;
+    z-index: 1;
+    Margin-left: 10%;
+    top: 106%;
+ }
+
+.write-content7 .img7 {
+    position: absolute;
+    height: 60%;
+    width: 60%;
+    top: 35%;
+    margin-left: 5%;
+    z-index: 2;
+ }
+
+
+.write-content7 .p7 {
+    position: absolute;
+    color: white;
+    font-size: 4.5vw;
+    font-weight: bold;
+    top: 10%;
+    right: 5%;
+    left: 50%;
+}
+
+.write-content6{
+    position: absolute;
+    background-color: orange;
+    border-radius: 10px;
+    height: 25%;
+    width: 80%;
+    z-index: 1;
+    Margin-left: 10%;
+    top: 132%;
+ }
+
+.write-content6 .img6 {
+    position: absolute;
+    height: 50%;
+    width: 80%;
+    top: 40%;
+    margin-left: 8%;
+    z-index: 2;
+ }
+
+
+.write-content6 .p6 {
+    position: absolute;
+    color: black;
+    font-size: 5.2vw;
+    font-weight: bold;
+    top: 10%;
+    padding:1%;
+    text-align: center;
+}
+.write-content{
+    position: absolute;
+    background-color: orange;
+    border-radius: 10px;
+    height: 25%;
+    width:  80%;
+    z-index: 1;
+    Margin-left: 10%;
+    top: 158%;
+   
+}
+
+.write-content .img1 {
+    position: absolute;
+    height: 65%;
+    width: 80%;
+    /* object-fit: cover; */
+    margin-left: 10%;
+    top: 18%;
+    z-index: 2;
+}
+
+.write-content .p1 {
+    position: absolute;
+    font-size:5.5vw;
+    font-weight: bold;
+    top: 10%;
+    text-align: center ;
+}
+
+.write-content2{
+    position: absolute;
+    background-color: rgb(209, 195, 170);
+    border-radius: 10px;
+    height: 25%;
+    width:  80%;
+    z-index: 1;
+    Margin-left: 10%;
+    top: 185%;
+ }
+
+ .write-content2 .img2 {
+    position: absolute;
+    height: 40%;
+    width: 80%;
+    margin-left: 10%;
+    top: 65%;
+    z-index: 2;
+}
+
+.write-content2 .p2 {
+    position: absolute;
+    font-size:7.5vw;
+    font-weight: bold;
+    top: 10%;
+    text-align: center ;
+}
+
+
+}
